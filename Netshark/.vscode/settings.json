@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "tcp.h": "c",
+    "ip.h": "c",
+    "protocol.h": "c"
+  }
+}

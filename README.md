@@ -31,4 +31,3 @@
    ```
 
 Note: The program requires root privileges to capture network packets. Run it with `sudo` if needed.
-# Netcore
